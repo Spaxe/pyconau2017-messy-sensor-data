@@ -1,6 +1,6 @@
 # Messy Sensor Data: A Programmer's Cleaning Guide
 
-Xavier Ho, CSIRO, Pyconau '17.
+Xavier Ho, Pyconau '17.
 
 ### Running the talk on your laptop:
 
