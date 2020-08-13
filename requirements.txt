@@ -1,4 +1,4 @@
-matplotlib==2.0.2
-pandas==0.20.3
-jupyter==1.0.0
-RISE==5.0.0
+matplotlib>=2.0.2
+pandas>=0.20.3
+jupyter>=1.0.0
+RISE>=5.0.0
